@@ -8,12 +8,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/richboys)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xkzt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xkzt&icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiorscammer&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiorscammer&icons=true&theme=transparent" />
+</a> 
 ### speech.
 
 <div style="display: inline_block"><br/>
