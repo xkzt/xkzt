@@ -7,8 +7,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frxzem)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/richboys)
 
-![zit](https://github-readme-stats.vercel.app/api?username=zit&show_icons=true&theme=dracula)
-
 ### speech.
 
 <div style="display: inline_block"><br/>
